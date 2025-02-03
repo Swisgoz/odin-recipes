@@ -1,0 +1,19 @@
+html{
+   box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  outline: 2px solid red;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box-example {
+      display: inline-flex;
+}
+
