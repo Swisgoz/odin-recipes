@@ -73,8 +73,9 @@ ul {
     color: white;
     background-color: orangered; 
     padding: 30px;
-    margin-top: 5px;
+    margin-top: 15px;
     display: block;
     text-decoration: none;
+    border-radius: 30px;
 }
 
